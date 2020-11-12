@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938479667158",
+    "firebase_url": "https://traffic-control-687af.firebaseio.com",
+    "project_id": "traffic-control-687af",
+    "storage_bucket": "traffic-control-687af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938479667158:android:7cc930d0abd7663d148677",
+        "android_client_info": {
+          "package_name": "com.example.traffic_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938479667158-101hl39ighuvmt7ppg98no16efjna5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVxOxCZIp7htwLxgoO4CtirxWh-ZnHxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938479667158-101hl39ighuvmt7ppg98no16efjna5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
